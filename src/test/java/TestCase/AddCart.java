@@ -17,5 +17,8 @@ public class AddCart extends SS_BaseClass
 	System.out.println("Name");
 	System.out.println("Name");
 	System.out.println("Name");
+	System.out.println("Name");
+	System.out.println("UserName");
+	System.out.println("Password");
 	}
 }
