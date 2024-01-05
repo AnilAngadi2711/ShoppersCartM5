@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="TestCase.AddToCart">
+        <methods>
+          <include name="Logout"/>
+          <include name="SS_Testcase_Electronic01"/>
+          <include name="SS_Testcase_Kids01"/>
+          <include name="SS_Testcase_Women01"/>
+          <include name="SS_Testcase_Beauty01"/>
+          <include name="SS_Testcase_Men01"/>
+          <include name="LoginAccess"/>
+          <include name="QuitBrowser"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- TestCase.AddToCart -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
